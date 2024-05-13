@@ -1,6 +1,9 @@
 # VisionPre
 Develop an initial model, using some real images from the "LungCancer4Types-ImageDataset" for lung cancer detection results and fine-tuning to enhance the accuracy of classification performance. At the same time, self-machine learning adjustment capabilities based on self-training verification were developed.
 
+
+# PS
+If the current files of model are not working，we prepared some alternative version inside the *colab* folder. Just put the relevant data set in the root directory of my drive and you can run it in colab.
 # Scripts/Commands
 **1. Setup and Preparations**
 This step includes importing necessary libraries, defining data transformations, and preparing your datasets.
