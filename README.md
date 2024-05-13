@@ -29,6 +29,6 @@ E.g. (ResNet)
 ![image](https://github.com/RuolongMao/VisionPre/assets/94766074/a5809ad2-63ef-4654-b60b-a298950d76b7)
 
 # Contribution
-CNN / DenseNet - Siyuan Bao
-ConvNext - Peter Qiu
-Resnet - Ruolong Mao
+CNN / DenseNet - Siyuan Bao  
+ConvNext - Peter Qiu  
+Resnet - Ruolong Mao  
