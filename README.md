@@ -1,8 +1,8 @@
 # VisionPre
 Develop an initial model, using some real images from the "LungCancer4Types-ImageDataset" for lung cancer detection results and fine-tuning to enhance the accuracy of classification performance. At the same time, self-machine learning adjustment capabilities based on self-training verification were developed.
 
-**1. Scripts/Commands**
-a. Setup and Preparations
+# Scripts/Commands
+**1. Setup and Preparations**
 This step includes importing necessary libraries, defining data transformations, and preparing your datasets.
 E.g. (ResNet)
 ![image](https://github.com/RuolongMao/VisionPre/assets/94766074/5eccd95b-5110-4d38-8064-4ea474ad40be)
