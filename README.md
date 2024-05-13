@@ -30,5 +30,5 @@ E.g. (ResNet)
 
 # Contribution
 CNN / DenseNet - Siyuan Bao  
-ConvNext - Peter Qiu  
+ConvNext - Yunshu Qiu  
 Resnet - Ruolong Mao  
