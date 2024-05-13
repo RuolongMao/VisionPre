@@ -31,4 +31,4 @@ E.g. (ResNet)
 # Contribution
 CNN / DenseNet - Siyuan Bao  
 ConvNext - Yunshu Qiu  
-Resnet - Ruolong Mao  
+Resnet/Data - Ruolong Mao  
